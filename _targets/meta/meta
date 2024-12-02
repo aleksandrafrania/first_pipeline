@@ -1,0 +1,11 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+.Random.seed|object|08a00ff670625573|||||||||||||||
+canton_data|stem|79bd20af208fd17d|5a36e9c0b41827b8|dc51be5aba092986|1096394013||t20059.6360883287s|1ddaef4c1e4040ac|462|rds|local|vector|||0.099||
+canton_plot|stem|de1b08f022661dcc|53dd0deb98a65f6a|2c15684df8eb5890|-330805114||t20059.6379093745s|2bc265f2e9d0218c|86636|rds|local|vector|||0.022||
+commune_data|stem|c7a7ddcc110b4336|f0c219a7b903f08d|dc51be5aba092986|1786433508||t20059.6360888034s|a1aec8c30e4819ce|370|rds|local|vector|||0.016||
+commune_plot|stem|d80b0940363d0811|7b5343d9c0480088|9526e0bf5198a867|-925139472||t20059.6379107134s|2a7b09b408d5a253|86530|rds|local|vector|||0.005||
+get_data|function|0c4fb932013ac7da|||||||||||||||
+lux_data|stem|7763c94d7485fb27|354235f7f1d21ea4|dc51be5aba092986|-1100894011||t20059.6360885561s|fe613b74dc561b12|232|rds|local|vector|||0.014||
+lux_plot|stem|f8674d4730ee62e6|0c32b8894f577ee4|4823ffb2dc80a60a|1991466695||t20059.6379101238s|ee5e8053fbd9f52d|86208|rds|local|vector|||0.008||
+make_plot|function|68d99afd0eda2653|||||||||||||||
+unemp_data|stem|ebcc6c22fc9eb813|3d8e5f857c63cf80|51f9fb1c2576e0cf|290879520||t20059.6271150817s|966f989b80b419d1|8807|rds|local|vector|||0.002||

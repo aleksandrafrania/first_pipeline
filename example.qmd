@@ -1,0 +1,29 @@
+---
+title: "R and Python"
+author: "Bruno Rodrigues"
+date: today
+---
+
+## This is a simple quarto document
+
+```{r}
+#| warning: false
+
+library(dplyr)
+library(tidyr)
+library(purrr)
+library(ggplot2)
+library(myPackage)
+
+data("unemp")
+
+unemp <- unemp %>%
+  janitor::clean_names() %>%
+  filter(level == "Commune")
+```
+
+```{python}
+print("hello from Python")
+import sys
+print(sys.version)
+```
